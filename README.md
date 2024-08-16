@@ -1,4 +1,4 @@
-# IBM Quantum Qiskit  
+# Qiskit IBM Quantum  
 
 This repository contains IBM Quantum Qiskit Quantum Computing Programs and Projects 
 
