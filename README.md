@@ -1,3 +1,3 @@
 # QuantumIBMQiskit  
 
-IBM QC Certification
+This repository contains IBM Quantum Qiskit Quantum Computing Programs and Projects 
